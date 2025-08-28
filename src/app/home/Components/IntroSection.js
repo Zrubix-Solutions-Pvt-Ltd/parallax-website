@@ -1,3 +1,6 @@
+'use client';
+
+
 export default function IntroSection() {
   return (
     <section className="section" id="about">

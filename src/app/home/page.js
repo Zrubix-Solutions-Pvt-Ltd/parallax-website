@@ -1,3 +1,5 @@
+'use client';
+
 import Header from '../header/page';
 import Footer from '../footer/page';
 

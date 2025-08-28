@@ -1,3 +1,6 @@
+'use client';
+
+
 import ParallaxSection from './ParrllaxSection';
 
 export default function CtaParallax() {

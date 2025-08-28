@@ -1,3 +1,6 @@
+'use client';
+
+
 import JourneyGrid from './JourneyGrid';
 
 export default function CategoriesSection() {
@@ -12,8 +15,7 @@ export default function CategoriesSection() {
       </div>
 
       <style jsx>{`
-        .sec-head {  max-width : 1400px;
-          margin : 40px auto ;}
+        .sec-head {  max-width : 1400px; margin : 40px auto ;}
         .sec-head h3 { margin: 10px 0 0; font-size: clamp(24px, 3vw, 34px); }
       `}</style>
     </section>
