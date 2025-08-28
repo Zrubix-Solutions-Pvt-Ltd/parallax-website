@@ -25,6 +25,7 @@ export default function Header() {
 
         <nav className={`nav ${open ? 'open' : ''}`}>
           
+          <a href="/about" className="link">About</a>
           <a href="#process" className="link">Our Process</a>
           <a href="#journal" className="link">Journal</a>
           <a href="#contact" className="link">Contact</a>
